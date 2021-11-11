@@ -1,0 +1,17 @@
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Promos.csprojAssemblyReference.cache
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\MainWindow.g.cs
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Penawaran.g.cs
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\App.g.cs
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Promos_MarkupCompile.cache
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Promos_MarkupCompile.lref
+C:\Users\yogah\source\repos\Promos\Promos\bin\Debug\Promos.exe.config
+C:\Users\yogah\source\repos\Promos\Promos\bin\Debug\Promos.exe
+C:\Users\yogah\source\repos\Promos\Promos\bin\Debug\Promos.pdb
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\MainWindow.baml
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Penawaran.baml
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Promos.g.resources
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Promos.Properties.Resources.resources
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Promos.csproj.GenerateResource.cache
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Promos.csproj.CoreCompileInputs.cache
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Promos.exe
+C:\Users\yogah\source\repos\Promos\Promos\obj\Debug\Promos.pdb
